@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box {
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148907303.jpg?w=2000);
+    background-size: cover;
+}
+
+.iphone {
+    background-image: url(mockup_apple_iphone_14_pro_max_2022_df75cf0876-removebg-preview.png);
+    background-size: cover;
+    width: 140vh;
+    height: 100vh;
+    margin-left: 40vh;
+}
+
+h2 {
+    display: inline-block;
+    margin-top: 22vh;
+    margin-left: 62.5vh;
+    font-size: xx-large;
+}
+
+.btn2 {
+    cursor: pointer;
+    width: 8vh;
+    height: 8vh;
+    border-radius: 45px;
+    border: 1.5px solid black;
+    background-color: slategrey;
+    color: white;
+    font-size: x-small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 53vh;
+    display: inline-block;
+}
+
+.btn4 {
+    cursor: pointer;
+    width: 8vh;
+    height: 8vh;
+    border-radius: 45px;
+    border: 1.5px solid black;
+    background-color: slategrey;
+    color: white;
+    display: none;
+    font-size: x-small;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 53vh;
+}
+
+.btn1 {
+    cursor: pointer;
+    width: 8vh;
+    height: 8vh;
+    border: 1.5px solid black;
+    background-color: green;
+    color: chartreuse;
+    display: inline-block;
+    border-radius: 45px;
+    font-size: x-small;
+    margin-top: 10vh;
+    margin-left: 9vh;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn3 {
+    cursor: pointer;
+    width: 8vh;
+    height: 8vh;
+    border: 1.5px solid black;
+    background-color: red;
+    color: seashell;
+    border-radius: 45px;
+    font-size: x-small;
+    margin-top: 10vh;
+    margin-left: 9vh;
+    font-family: Arial, Helvetica, sans-serif;
+    display: none;
+}
+
+.log {
+    height: 35vh;
+    width: 35vh;
+    margin-left: 54.5vh;
+    margin-top: 2.5vh;
+}
+
+.font {
+    font-size: 1vh;
+    margin-left: 8vh;
+}
+
+.fa-solid {
+    margin-left: 1vh;
+}
+
+hr {
+    width: 25%;
+    margin-left: 55vh;
+    margin-top: 5vh;
+    color: black;
+}
